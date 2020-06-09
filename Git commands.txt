@@ -1,0 +1,25 @@
+git init
+
+git status
+
+git add --a
+
+git add <file-name>
+
+git rm --cached <file-name>
+
+git rm --cached *
+
+git reset HEAD <file-name>
+
+git commit -m 'commit message'
+
+git remote add origin master https://github.com/nuDeveloper/MyNewRepository
+
+git remote rm origin master
+
+git push -u origin master
+
+git checkout -- <file-name>
+
+git checkout -- *
