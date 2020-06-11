@@ -3,3 +3,8 @@ public class DEMO{
 		System.out.println("Hello world...!!!");
 	}
 }
+
+Object mapper
+Rest Template
+
+Commit A: Some more info
