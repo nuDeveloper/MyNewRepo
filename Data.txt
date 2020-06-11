@@ -5,10 +5,3 @@ Some new content from User 1. Some more additional info...!! keep learning...
 
 Some new data from User 2
 
-Commit 001: Some temp data
-
-Commit 002: Some temp data
-
-Commit 003: Some temp data
-
-Commit 004: Some temp data
