@@ -2,3 +2,5 @@ Hello world... This is plan text file...!!!
 
 
 Some new content from User 1.
+
+Some new data from User 2
