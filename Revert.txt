@@ -1,3 +1,1 @@
 Commit 1: Some data
-
-Commit 2: Some data
