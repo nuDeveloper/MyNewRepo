@@ -1,3 +1,10 @@
 Commit 1: Some data
 
 Commit 2: Some data
+
+time complexity is better in which arraylist, hashmap, treemap
+
+ get list of values using streams from map.
+ 
+ 
+ test data
